@@ -1,0 +1,3 @@
+-am folosit formula ceruta pentru genrarea lui n
+-am adunat corect numere in hexazecimal si binar
+-am folosit algoritmul cu 2 while-uri pentru cifra de control;
