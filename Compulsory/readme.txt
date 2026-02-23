@@ -1,1 +1,3 @@
-am folosit functii separate pentru logica de desenare (genereazaDreptunghi, genereazaCerc) si pentru transformarea matricei in text (transformaInString).
+-am calculat n folosind formula sugerata
+-am adunat corect numere in hexazecimal si binar
+-am folosit alg. cu 2 while-uri pentru cifra de control
