@@ -1,0 +1,1 @@
+am folosit functii separate pentru logica de desenare (genereazaDreptunghi, genereazaCerc) si pentru transformarea matricei in text (transformaInString).
