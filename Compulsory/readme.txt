@@ -1,3 +1,0 @@
--am calculat n folosind formula sugerata
--am adunat corect numere in hexazecimal si binar
--am folosit alg. cu 2 while-uri pentru cifra de control
