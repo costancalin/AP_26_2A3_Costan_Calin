@@ -1,0 +1,3 @@
+-am dat manual valori pentru n,m si matrice
+-pentru aflarea bounding boxului am lucrat folosind matricea de 0 si 1
+-am translatat matricea folosind caractere unicode si am afisat-o
